@@ -100,5 +100,4 @@ after the volume was converted to NTFS?
 security
 
 Why is there an additional Security tab in the properties window of documents stored on an NTFS volume?
-
 NTFS will enable you to place permissions on file and folders so you can restict access to mission-critical data.
