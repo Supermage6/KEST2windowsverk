@@ -53,23 +53,18 @@ its becous they want to protect the user from other unnistal aplication so maibe
 
 Question:
 What type of File System is used on the NEW VOLUME (I:)?
-
 it is fat32
 
 How much Free Space is shown?
-
 it is 1,99gb of storage
 
 List the tabs found in the NEW VOLUME (I): Properties window?
-
 general, readyboost, tools, hardware, sharing, prevous versions customize.
 
 What tabs are listed in the ITE Test Document Properties window?
-
 general, details, previous versions.
 
 What happens if you do not run as administrator when you open the command prompt?
-
 þetta messige kemur upp:
 
 Access Denied as you do not have sufficient privileges or
@@ -79,24 +74,19 @@ and make sure the disk is unlocked.
 
 
 What type of File System is used for the ITE (I:) drive?
-
 it is NTFS
 
 What are the tabs in the ITE (I:) Properties window?
-
 general, tools, hardware, sharing, security, customice, quota, previous version, readyboost
 
 When the volume was FAT32, there were six tabs. What are the names of the new tabs that were added?
-
 they add security and quota
 
 What are the tabs in the ITE Test Document Properties window?
-
 general, security, detais, previous version.
 
 When the volume was FAT32, there were three tabs. What is the name of the new tab that was added
 after the volume was converted to NTFS?
-
 security
 
 Why is there an additional Security tab in the properties window of documents stored on an NTFS volume?
