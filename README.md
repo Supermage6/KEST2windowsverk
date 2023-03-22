@@ -5,9 +5,15 @@ spurning 1: What options are available in the Driver tab?
 the options are : driver provider, driver date, driver version, digi signer, driver details, uptate driver, roll back driver, disable driver, uninstall device. those are the options that u get.
 
 # 3.1.2.5 Lab - Search for BIOS or UEFI Firmware Updates
+
+What key or combination of keys is used to run Setup on your computer?
+
+Type your answers here.
+
 The BIOS Setup Utility or UEFI screen appears.
 Questions:
 Who is the manufacturer of the BIOS?
+
 Type your answers here.
 
 Which BIOS version is installed in your computer?
