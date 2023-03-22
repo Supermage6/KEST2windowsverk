@@ -43,9 +43,62 @@ Instant Flash. its called
 
 What is the default installation location for Packet Tracer?
 
-Type your answers here
+it was installed C:\Program Files\Cisco Packet Tracer 8.2.1 in this folder
 
 Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
 
 its becous they want to protect the user from other unnistal aplication so maibe they dont get a virus or something
 
+# 10.2.1.8 Lab - Create a Partition in Windows
+
+Question:
+What type of File System is used on the NEW VOLUME (I:)?
+
+it is fat32
+
+How much Free Space is shown?
+
+it is 1,99gb of storage
+
+List the tabs found in the NEW VOLUME (I): Properties window?
+
+general, readyboost, tools, hardware, sharing, prevous versions customize.
+
+What tabs are listed in the ITE Test Document Properties window?
+
+general, details, previous versions.
+
+What happens if you do not run as administrator when you open the command prompt?
+
+þetta messige kemur upp:
+
+Access Denied as you do not have sufficient privileges or
+the disk may be locked by another process.
+You have to invoke this utility running in elevated mode
+and make sure the disk is unlocked.
+
+
+What type of File System is used for the ITE (I:) drive?
+
+it is NTFS
+
+What are the tabs in the ITE (I:) Properties window?
+
+general, tools, hardware, sharing, security, customice, quota, previous version, readyboost
+
+When the volume was FAT32, there were six tabs. What are the names of the new tabs that were added?
+
+they add security and quota
+
+What are the tabs in the ITE Test Document Properties window?
+
+general, security, detais, previous version.
+
+When the volume was FAT32, there were three tabs. What is the name of the new tab that was added
+after the volume was converted to NTFS?
+
+security
+
+Why is there an additional Security tab in the properties window of documents stored on an NTFS volume?
+
+NTFS will enable you to place permissions on file and folders so you can restict access to mission-critical data.
