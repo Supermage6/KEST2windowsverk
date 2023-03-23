@@ -232,7 +232,6 @@ fyrst there are many wais good and dum im just gona do a siple one go to click o
 Right-click the text document > click Properties. Click the Details tab
 What are the attributes associated with this file?
 this is what it shows:
----------------------------
 
 name            New Text document.txt
 
@@ -252,7 +251,7 @@ Owner           DESKTOP-O3HHUKC\knutski
 
 computer        DESKTOP-O3HHUKC (this PC)
 
----------------------------
+
 
 
 Questions:
