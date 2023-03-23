@@ -212,7 +212,46 @@ Right-click a process and list the available options below.
 the list that is are end task, end process tree, provide feedback, set priority, set affinity, analize wait chain, UAC virtualization, create dump file, open file location, search online, properties and go to service(s) those are the listed optios.
 
 Reflection Question
+
 Why is it important for an administrator to understand how to work within the Task Manager?
 the importand thing to under stand is basically if you dont know youre pc coud maibe not run at 100% capasity but if you know how task maniger work then you coud change and make apps run and not run and every thing will work.
+
+# 11.1.4.11 Lab - Working with File Explorer
+
+What happened with Folder1 and Folder2 on the Desktop?
+The foler1 is can be seen in desctop meue but not folder2 bc if you click folder1 you will go in it and there you can se folder2 and click on it and go in it.
+
+Question:
+What is the file extension for the text document?
+.TXT thats whats its called
+
+Question:
+How would you do it?
+fyrst there are many wais good and dum im just gona do a siple one go to click on folder 1 right click backround and click new and click on New Text Document just call it (text) and hold drag into folder2 and just to clarify click on folder2 to see if it is in there.
+
+Right-click the text document > click Properties. Click the Details tab
+What are the attributes associated with this file?
+this is what it shows:
+---------------------------
+name            New Text document.txt
+type            text document
+Folder path     the one that you are using
+size            0 bytes
+date created    3/23/2023 11:29am
+date modified   3/23/2023 11:29am
+Attributes      A
+Owner           DESKTOP-O3HHUKC\knutski
+computer        DESKTOP-O3HHUKC (this PC)
+---------------------------
+
+
+Questions:
+What is the complete path to Folder3? (Hint: One way to find this information is in the folder properties.)
+Type your answers here.
+
+In Windows 8.x and 10, which directories are listed under Folders? (Note: There is no Folders heading in
+Windows Explorer.)
+Type your answers here
+
 
 
