@@ -256,11 +256,46 @@ computer        DESKTOP-O3HHUKC (this PC)
 
 Questions:
 What is the complete path to Folder3? (Hint: One way to find this information is in the folder properties.)
-Type your answers here.
+This is the path: C:\Users\knutski\Desktop\Folder1\Folder2\folder3
 
 In Windows 8.x and 10, which directories are listed under Folders? (Note: There is no Folders heading in
 Windows Explorer.)
-Type your answers here
+the directions are Desktop, downloads, documents, pictures, music, videos.
+
+Lab - Working with File Explorer
+
+Question:
+What happened? Why would you want to do this?
+it makes it so you can easely go to the folder without goin fyrst into desctop and then to folder1 and then to folder2 and so on it just makes it so that its faster to go to a file then to go the long way.
+
+Question:
+What are folders listed in the Local Disk (C:)?
+The folders are perfLogs, program Files, Program Files(x86), user, windows and windows.odl.
+
+n. Open the Users folder. List all the folders in the directory.
+there are only 2 things knutski folder and public folder 1 private and one public.
+
+Question:
+
+Were you able to open it? Explain.
+i was able to open it bc i am the user and i dont have it on private on this computer.
+
+Open the Public folder. List all the folders in the directory
+the folders are public documents, public downloads, public Music, public pictures, public videos.
+
+Step 2: Windows Libraries
+
+Question:
+
+Which folders or files listed under the Libraries heading?
+there are 6 folders and they are called Camera roll, documents, music, saved Pictures, pictueres and videos.
+
+How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents
+from the computer?
+One way to do this is to move the contents of the folder to a different location before deleting the other folder
+
+
+
 
 
 
