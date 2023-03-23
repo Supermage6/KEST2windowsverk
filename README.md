@@ -233,15 +233,25 @@ Right-click the text document > click Properties. Click the Details tab
 What are the attributes associated with this file?
 this is what it shows:
 ---------------------------
+
 name            New Text document.txt
+
 type            text document
+
 Folder path     the one that you are using
+
 size            0 bytes
+
 date created    3/23/2023 11:29am
+
 date modified   3/23/2023 11:29am
+
 Attributes      A
+
 Owner           DESKTOP-O3HHUKC\knutski
+
 computer        DESKTOP-O3HHUKC (this PC)
+
 ---------------------------
 
 
