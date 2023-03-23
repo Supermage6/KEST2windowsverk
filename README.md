@@ -132,17 +132,87 @@ What can you do in the Notification & actions Settings window?
 you can turn of  the notifications for showing up and allow notifiation sound and can select witch app give you them
 
 # 11.1.3.4 Lab - Work with Task Manager
-
+what happens when u end task at a browser in task maniger?
 What happened?
-Type your answers here
+it just closes the tab and wipes it
 
 Open the web browser again. Right-click the web browser in the Task Manager.
 Question:
 What options are available?
-Type your answers here.
+The options are are these expand,switch to, end task, recource values provide feedback, debug, create dumb file, go to details, open file location, search online, properties.
+
 
 Click the Services tab. Use the scroll bar on the right side of the Services window to view all the services
 listed
 Question:
 What statuses are listed?
-Type your answers here
+The status are stopped or running.
+
+What are the available actions that can be taken?
+u can stop surten app to start when u open the computer and run in the bacround.
+
+Questions:
+What is the current utilization of the CPU?
+it flicking beetween 3% to 11% cpu utilization.
+
+How many streams of instructions (i.e. Threads) are currently running?
+1460 to 1500 threads
+How many Apps, Background processes, and Windows processes (i.e Processes) are currently running?
+there are 145 to 147 processes running.
+
+Question:
+What is the total physical memory (MB)?
+there is about 4000MB of memory
+
+What is the available physical memory (MB)?
+1800MB is awailible
+
+How much physical memory (MB) is being used by the computer?
+the computer is using about 2166.3MB in use.
+
+Questions:
+What is the link speed? What type of Ethernet Adapter is in use on this computer?
+Qualcomm Atheros AR817/8175 PCI is the name
+What type of network connection (i.e Connection type) is in use?
+The tipe name is Ethernet.
+What is the IPv4 address of the PC? Note: This information is not available in the Networking tab in
+Windows 7.
+10.11.214.54 is the ip
+
+step 4: Processes tab
+What effect does this have on the columns?
+it shows the user what apps are using the most top to bottom and if the user clics it again it shows you the order the other way around fyrst the app that is using the least on youre computer.
+
+How could this be useful?
+this coud be usfll to see like if some apps are using to mutch and you dont want it you coud see what is using it
+
+The listed processes are divided by categories. What categories are listed?
+the caticorys are names, status, cpu, memory, disc and network.
+
+Step 5: Users tab.
+
+b. Right-click a username. What are the available options?
+expand, disconect and manage users account.
+
+Step 6: Startup, App history and Details tabs.
+
+a. The Startup tab lists the processes that are started automatically during Windows startup. Click the
+Startup tab. Right-click a process and list the available options below?
+the options are expand, disable, open file location, search online and properties.
+
+
+Question:
+
+What type of information can you get from this list?
+this list basicallu shows you how mutch cpu time it has used in youre computer over time and shos you how mutch network metered network and tile upates the app has used over the time.
+
+c. The Details tab displays process information such as process ID (PID), status, and memory utilization.
+Right-click a process and list the available options below.
+
+the list that is are end task, end process tree, provide feedback, set priority, set affinity, analize wait chain, UAC virtualization, create dump file, open file location, search online, properties and go to service(s) those are the listed optios.
+
+Reflection Question
+Why is it important for an administrator to understand how to work within the Task Manager?
+the importand thing to under stand is basically if you dont know youre pc coud maibe not run at 100% capasity but if you know how task maniger work then you coud change and make apps run and not run and every thing will work.
+
+
