@@ -372,5 +372,30 @@ Which subcategory would you use to improve the computer’s ability to understan
 dictation accuracy?
 Speech reconition.
 
+# 11.2.2.3 Lab - User Accounts
 
+Questions:
+What can a user do with a limited account?
+He can not acces amin tools and he cant acces something to try to change things in the computer.
 
+What limitations does this type of an account have?
+he cant change the computer or use adnmin tools
+
+What information is listed for the new account?
+Type your answers here
+
+What is the advantage of having most users work within a Standard user account?
+Type your answers here
+
+For this lab, select Delete Files. What are the other options? When would you choose the other options?
+Type your answers here.
+
+1 .Why is it important to protect all accounts with strong passwords?
+Type your answers here.
+
+2. Why would you create a user with Standard privileges?
+Type your answers here.
+
+3. In what type of situation would an IT administrator delete a user account and choose to keep the files of that
+user account instead of deleting them?
+Type your answers here.
