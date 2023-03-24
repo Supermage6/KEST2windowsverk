@@ -382,20 +382,24 @@ What limitations does this type of an account have?
 he cant change the computer or use adnmin tools
 
 What information is listed for the new account?
-Type your answers here
+ther ist anything listed that i can se it woud seem
 
 What is the advantage of having most users work within a Standard user account?
-Type your answers here
+its so you can have a prvate things and many people can gain acces tp the computer and not ruining anything that u have done.
 
 For this lab, select Delete Files. What are the other options? When would you choose the other options?
-Type your answers here.
+the options are delete files, keep files or cansel.
 
 1 .Why is it important to protect all accounts with strong passwords?
-Type your answers here.
+so every one that has acces to this pc have every thing private and secure.
 
 2. Why would you create a user with Standard privileges?
-Type your answers here.
+so they coudent destroy anything important
 
 3. In what type of situation would an IT administrator delete a user account and choose to keep the files of that
 user account instead of deleting them?
-Type your answers here.
+if he just wants to delet user and if he has like things he needs he can just do keep files and he will get them in his admin account and he can delete some files if he needs to.
+
+# 11.2.5.8 Lab - Manage Virtual Memory
+
+
