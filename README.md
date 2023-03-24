@@ -294,8 +294,83 @@ How would you remove the directory of Folder1 from the library without deleting 
 from the computer?
 One way to do this is to move the contents of the folder to a different location before deleting the other folder
 
+# 11.2.1.5 Lab - Explore Control Panel Categories
 
+What are the viewing options?
+The options are Category, Large icons and small icons.
 
+Name a few of the Control Panel categories.
+the catygoris are System and security, network and internet, Hardware and Sound, programs, User accounts, appearance and personalization, clock and region and ease of acces.
+
+Which subcategory would help you troubleshoot common problems?
+subcategorys that could help you are file hystory security and maintenance, windows defender firewall and administrative tools.
+
+Which subcategory allow a program through Windows Firewall?
+the categorys that have acces are admin tools, system and security and maintenance.
+
+Step 3: Network and Int
+
+Which subcategory allows you to view the basic network information and set up connections?
+its the Network and sharing center.
+
+Step 4: Hardware and Sound
+
+Which subcategory allows you to choose what happens when you insert a media or device?
+its called Autoplay.
+
+Which subcategory allows you to add a printer?
+its called devices and printers.
+
+Step 5: Programs
+
+Which subcategory would you use to have a specific file type always open in a specified program?
+that catigory is called Default programs
+
+Which subcategory would you use to uninstall a program?
+its called programs and features
+
+Which subcategory would you use to install the Windows telnet client?
+programs and features.
+
+Step 6: User Accounts (or User Accounts and Family Safety in Windows 8.1 and 7)
+
+Which subcategory would you use change the account type from administrator to standard?
+the subcatigory is User accounts.
+
+Which subcategory would you use to view, edit, or remove the web and Windows credentials?
+its the Credential manager.
+
+Step 7: Appearance and Personalization
+
+Which subcategory would you use to customize the Taskbar?
+Taskbar and navigation
+
+Which subcategory would you use to show hidden files and folders?
+the file explorer options
+
+Which subcategory would you use to show extensions for known file types?
+the file explorer options.
+
+Step 8: Clock and Region (Clock, Language, and Region)
+
+Which subcategory would you use to change the time zone?
+Date and time
+
+Which subcategory would you use to change date format?
+Region
+
+Which subcategory would you use to synchronize the time on a computer with a specific web server on the
+Internet?
+Date and time.
+
+Step 9: Ease of Access
+
+Which subcategory would you use to configure the computer to read aloud any text on the screen?
+Ease of access center.
+
+Which subcategory would you use to improve the computer’s ability to understand your voice and improve the
+dictation accuracy?
+Speech reconition.
 
 
 
