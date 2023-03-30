@@ -402,4 +402,133 @@ if he just wants to delet user and if he has like things he needs he can just do
 
 # 11.2.5.8 Lab - Manage Virtual Memory
 
+What is the current size of the virtual memory (paging file)?
+there is total 1408 MB of Ram.
+
+Question:
+What Drive [Volume Label] contains the paging file?
+its in my local disc c
+
+What is the recommended paging file size for all drives?
+it is about 2GB of storage.
+
+What Drive [Volume Label] contains the paging file?
+it is in my local disc c
+
+Why would you ever change the default virtual memory page file settings in Windows?
+over time the driver may run out of free space, which would cause some system problems for youre coputer.
+
+# 11.2.6.2 Lab - Use Device Manager
+
+What information is listed in the Device Manager window? Why would you use it?
+these informations is every thing that is pluged in a cmputer and vita to use some of them i might say some are usless. The reason you woud youse this is so you can check information about th devises you have in youre computer.
+
+Browse through the menus displayed at the top of the Device Manager window. How would you install
+driver software for an older device that may not be automatically recognized by the Windows operating
+system?
+Expand Display Adapters.
+
+Double-click your Intel display device.
+
+Select the Driver tab.
+
+Click Roll Back Driver to restore.
+
+What additional information does Driver Details provide?
+the informatio the driver provides is contains storage dont realy know
+
+What two options do you have for updating the driver?
+the two options are: Searh automatically for drivers ad browse my computer for driver.
+
+What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer,
+why would it be grayed out?
+its bc it is sometimes preventing you to go to older versions of that driver it maibe bc there coud be a flaw that they needed to get out with an update or it coude be locked.
+
+What are the other available options?
+the options are driver detals, update driver, roll back driver, uninstall device.
+
+
+# 11.3.1.11 Lab - Monitor and Manage System Resources - Sleppa Windows Defender hlutanum, byrja á Part 2 (print spooler)
+
+
+What is the status of the service?
+the status of the widows defender is manual
+
+In the General tab, what is listed as the Source of the event? What is the severity level?
+there is nothing mutch security level there is a little i say security level 5/10 right now.
+
+In Notepad, click File > Print. Record a listed printer below. Note: You do not need to install a physical
+printer.
+the printers are fax, microsoft print to pdf and microsoft xps document writer.
+
+What message did you receive? How would you fix this?
+the messige sead this: befour you can preform printer-related task such as page setp or printing a doucment, you need to install a printr do you want to instal a printer now. two options yes and no.
+
+Question:
+When DHCP Client stops, what other services will also be stopped?
+the other services are: IP Helper, winhttp web proxy Auto-Discovery service, network list service and network location awareness.
+
+Why is it important to exercise care when managing services?
+if you do there is a hier chance you wond destroy anything important.
+
+What is the full path name to the example file name?
+the full name is: DataCollector01
+
+What does the column farthest to the right show?
+the colum to the right just shows the duration the memory tab was active.
+
+# 11.3.2.7 Lab - System Utilities
+
+What was the path you use to navigate to the Event Viewer?
+the path to do it is
+
+click on youre Maagement tools you see three options click computr managment and then click system tools and there you go then you see event viewer.
+
+What is the background picture?
+the backround picture is the windows logo bacround its normal to have it when you fyrst start windows on youre computer.
+
+What is the data value of the Background (hint – it has three numbers that correspond to red, green, and
+blue)?
+the walue is 0 0 0
+
+What is the data value of the Background?
+the data value is the value of the backround is 0 0 0.
+
+What is the data value of the Background?
+the data value is 0 0 0
+
+What is the color of the desktop?
+it is bue
+
+Reflection Question
+1. Why would it be beneficial to add snap-ins to the mmc that are for other computers on the network?
+the thing is you can create management consols that include only adminstrative tools that you need for quick acces
+
+2. After restarting the computer, why was the desktop color changed?
+its bc the value of the backround was changes
+
+# 11.3.2.8 Lab - Manage System Files
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
