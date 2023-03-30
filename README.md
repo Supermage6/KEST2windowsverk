@@ -509,15 +509,55 @@ its bc the value of the backround was changes
 
 # 11.3.2.8 Lab - Manage System Files
 
+Processor:
+system summary
 
+BIOS Version/Date:
+System summary
 
+Total Physical Memory:
+System summary
 
+DMA channels and the device using the resources.
+it si the Hardware and resources
 
+Adapter Description:
+in componeents in network.
 
+Under the Software Environment heading, where would you find the applications that automatically load
+when the computer boots?
+its the startup program sub catgory.
 
+What are the startup options?
+the options are normal startup, diagnostic startup and selective startup.
 
+Can you enable and disable services at this tab?
+no you canot.
 
+What can you do in this tab?
+you can lounch surten aplications cinda force opne them.
 
+What does this tool report?
+Type your answers here.
+
+Question:
+What information is listed on this page?
+Type your answers here.
+
+What information is listed on this page?
+Type your answers here.
+
+What information is listed on this page?
+Type your answers here.
+
+What information is listed on these extra tabs?
+Type your answers here.
+
+Reflection Questions
+1. Why would it be beneficial to turn off a service in the system configuration?
+Type your answers here.
+2. When would you use the startup tab of the system configuration tool?
+Type your answers here.
 
 
 
