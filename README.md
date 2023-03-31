@@ -743,16 +743,16 @@ you can give them your user name and password
 
 Reflection Questions
 1. What type of scenarios are most appropriate for Remote Assistance in contrast with Remote Desktop?
-
+the senario is first of ll if youre somewhere else and you cant go to that specific computer and then if you have another copmute this is the most usefull.
 
 2. How many simultaneous users can access a Windows computer at a single time?
-Type your answers here.
+there can onlu be one person at a time
 
 3. What type of security components are implemented with Windows Remote Desktop?
-Type your answers here.
+The Secure Sockets Layer (SSL)
 
 4. How could remote desktop be used as a beneficial technology in the workplace?
-Type your answers here.
+to support your employees who work from home and facilitate remote technical support.
 
 
 
