@@ -535,33 +535,159 @@ Can you enable and disable services at this tab?
 no you canot.
 
 What can you do in this tab?
-you can lounch surten aplications cinda force opne them.
+you can launch surten aplications and force opne them.
 
 What does this tool report?
-Type your answers here.
+it reports you if theres something wrong.
 
 Question:
 What information is listed on this page?
-Type your answers here.
+the system lists are: system information.
 
 What information is listed on this page?
-Type your answers here.
+the things that are listed device, drivers, directx features.
 
 What information is listed on this page?
-Type your answers here.
+sound lists are: device,drivers.
 
 What information is listed on these extra tabs?
-Type your answers here.
+input lists are: directInput devices and input related devices.
 
 Reflection Questions
 1. Why would it be beneficial to turn off a service in the system configuration?
-Type your answers here.
+if you turn it f there choud be a critical mess the effects are not loging in propperly on windows windows sometimes doesent respond good and many bug if you turn it off.
 2. When would you use the startup tab of the system configuration tool?
-Type your answers here.
+the time to use it when if you have some lag/bug on youre omputer and the tool ca help remove them.
 
 
+# 11.4.1.5 Lab - Work in the Windows Command Shell
+
+To see the next page, press the spacebar. What happens when you press enter?
+the CMD gives me more information about how to use many comands as sutch.
+
+How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is
+C:\Users\ITEUser?
+Type type nul > filename.txt .
+
+What command would you use to verify the creation of the nested directories?
+write verify.
+
+Question:
+What command did you use?
+write: clear.
+
+Question:
+What is the last command that you have used? Press Esc on the keyboard to exit the dialog box.
+it was tree
+
+Question:
+What is the last command?
+it was Tree
+
+# 11.4.2.7 Lab - File System Commands
+
+What is the current directory?
+C:\Users\knutski
+
+Which folder are you in now?
+i am in folder3.
+
+After issuing the cd .. command, what is your directory now?
+C:\Users\ITEUser3\ITEFolder5?
+
+What would be the current directory if you issue this command at
+C:\Users\ITEUser\ITEfolder3\ITEFolder4?
+it woud be Folder4.
+
+What single command would you use to delete all the files with doc2 in the filename? Use the command
+to remove the files with doc2 in the filename.
+del namefile.
+
+What command would you use to delete all the files in the directory? Use the command to remove the
+files.
+you use del directory name.
+
+What option allows you to copy all the files and directories, including the empty directories?
+thecomp is called: copy filename.
+
+Reflection Question
+What are the advantages of using CLI vs. GUI?
+
+Command-line interface	
+
+Faster and more accurate	
+
+Only the keyboard is required for the input	
+
+Less memory required for storage
 
 
+Graphic-user interface
+
+Slower and less accurate
+
+Both keyboard and mouse can be used for input
+
+More memory required as visual components are involved
+
+# 11.4.3.2 Lab - Disk CLI Commands
+
+What is the option to fix errors on the drive?
+its /f
+
+What is the option to force the volume to dismount first if necessary?
+/x.
+
+What is the option to locate bad sectors and recover readable information?
+/B
+
+Question:
+What happened? Explain.
+it shows me acces denied as you do not have sufficient prif or the disk may be locked by another process.
+
+# 11.4.4.2 Lab - Task and System CLI Commands
+
+What command would you use to display the results of tasklist one page at a time?
+the comand you wou use tasklist name time
+
+What is the option to list the modules that are associated with a task?
+parameter list exaples,descriptins.
+
+What command would you use if you want to find all the tasks that use the module oleaut32.dll? List a
+few tasks that uses oleaut32.dll.
+/M     [module]
+
+What command would you use to find out all the tasks that are associated with your username?
+ /U     [domain\]user
+
+What command would you use to find out all the processes that have been running for more than 1 hour
+and 40 minutes?
+ /NH
+
+What command would you use if you wanted to terminate all process owned by a particular user?
+ /FI    filter
+
+What option would you use if you only wanted to scan the integrity of all the protected system files?
+/S     system
+
+Record the command below. What warning message did you see?
+i saw are you sure you want do do this this may lead to some errors.
+
+What command would you use to abort the shutdown?
+/abourt.
+
+# 11.4.5.3 Lab - Other Useful Commands, sleppa step 2 í part 2
+
+When does the password expire?
+it expires in may 2024
+
+What is the local drive letter assigned to the connected resource?
+the letter is /C.
+
+### hópverk
+# 11.5.2.4 Lab - Share Resources
+
+11.5.6.2 Lab - Windows Remote Desktop and Assistance
 
 
 
