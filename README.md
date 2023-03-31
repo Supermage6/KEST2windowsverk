@@ -687,12 +687,71 @@ the letter is /C.
 ### hópverk
 # 11.5.2.4 Lab - Share Resources
 
-11.5.6.2 Lab - Windows Remote Desktop and Assistance
+What is the name of your computer? Provide your computer name and shared folder name to your
+partner.
+the name is called: DESKTOP-O3HHUKC.
 
+What is the name of your partner’s computer and shared folder from your partner?
+DESKTOP-640ITN
 
+Can you open the Brief file?
+yes i can took a little while but i did it
 
+Can you delete the Brief file? What happens?
+there came a security check and you need the owners permission to delete.
 
+What are the default permissions?
+defoult is allow every one to rea my files.
 
+What needs to be changed to allow any remote users to make changes in the ShareXX folder?
+you need to clik allow on change.
+
+Can you open the Brief file?
+Yes
+
+Can you delete the Brief file? What happens?
+when i clicked delet a cond promp cam to say you sure you wana perma delete this file
+
+What can you do to assign a drive letter to your partner’s shared folder?
+right click the folder and click on map network drive and then you can chang the letter it was assinegt to.
+
+# 11.5.6.2 Lab - Windows Remote Desktop and Assistance
+
+Record the name of this computer.
+Type your answers here
+
+What is the current Remote Desktop Port?
+Type your answers here
+
+What CLI command would you use to get the IP address?
+Type your answers here.
+
+Username:
+Type your answers here.
+Password:
+Type your answers here.
+
+What message is displayed on the remote computer and how much time is mentioned?
+Type your answers here.
+
+What is the default amount of time remote assistance invitations remain open?
+Type your answers here.
+
+What are the ways to send an invitation to a trusted person with Remote Assistance?
+Type your answers here.
+
+Reflection Questions
+1. What type of scenarios are most appropriate for Remote Assistance in contrast with Remote Desktop?
+Type your answers here.
+
+2. How many simultaneous users can access a Windows computer at a single time?
+Type your answers here.
+
+3. What type of security components are implemented with Windows Remote Desktop?
+Type your answers here.
+
+4. How could remote desktop be used as a beneficial technology in the workplace?
+Type your answers here.
 
 
 
