@@ -718,31 +718,32 @@ right click the folder and click on map network drive and then you can chang the
 # 11.5.6.2 Lab - Windows Remote Desktop and Assistance
 
 Record the name of this computer.
-Type your answers here
+DESKTOP-O3HHUKC.
 
 What is the current Remote Desktop Port?
-Type your answers here
+DESKTOP-640ITN
 
 What CLI command would you use to get the IP address?
-Type your answers here.
+ipconfig /all
 
 Username:
-Type your answers here.
+KNUTSKI
+
 Password:
-Type your answers here.
+P@ssword123
 
 What message is displayed on the remote computer and how much time is mentioned?
-Type your answers here.
+it displays the name of the computer
 
 What is the default amount of time remote assistance invitations remain open?
-Type your answers here.
+6 hours
 
 What are the ways to send an invitation to a trusted person with Remote Assistance?
-Type your answers here.
+you can give them your user name and password
 
 Reflection Questions
 1. What type of scenarios are most appropriate for Remote Assistance in contrast with Remote Desktop?
-Type your answers here.
+
 
 2. How many simultaneous users can access a Windows computer at a single time?
 Type your answers here.
