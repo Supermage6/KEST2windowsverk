@@ -82,19 +82,45 @@ go to properties on every one and click full acces.
 2. How would you deny access to a file for everyone except the owner?
 i woud click on users and then deny acces for that file in security check box.
 
-# 13.4.1.10 Packet Tracer - Configure Wireless Security
+# 13.3.4.6 Lab - Configure Windows Firewall 
+
+Under PC-1, are you able to see the shared folder Cisco?
 
 
+What are the benefits of Windows Firewall?
+Type your answers here.
 
+Describe a negative consequence of having too many exceptions.
+Type your answers here
 
+Can you connect to PC-1 and view the Cisco shared folder?
+Type your answers here.
 
-
-
+ Did you receive an error message on PC-2? If so, what was the Error message?
+Type your answers here.
  
+ Can you connect to computer 1? Explain.
+Type your answers here.
  
- 
- 
- 
+ List the short name of four services that are available in the Customize Service Settnigs window.
+Type your answers here.
+
+List four of the Specific ICMP types.
+Type your answers here.
+
+What are some possible reasons you may need to make firewall changes?
+Type your answers here.
+
+
+
+
+
+
+
+
+
+
+
  
  
  
