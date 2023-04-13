@@ -1,10 +1,10 @@
 # 13.2.3.7 Bitlocker and Bitlocker To Go
 
 Why is it important to save a BitLocker recovery key?
-Type your answers here.
+so you can acces the bitlocker if you dont save it then it woud be locked forever until u have the pasword
 
 What is the function of a TPM in relation to BitLocker?
-Type your answers here.
+its  to help protect user data and to ensure that a computer has not been tampered with while the system was offline.
 
 # 13.3.2.5 Configure Windows Local Security Policy
 
