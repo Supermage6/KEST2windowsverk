@@ -85,31 +85,31 @@ i woud click on users and then deny acces for that file in security check box.
 # 13.3.4.6 Lab - Configure Windows Firewall 
 
 Under PC-1, are you able to see the shared folder Cisco?
-
+yes we are able to see .
 
 What are the benefits of Windows Firewall?
-Type your answers here.
+Windows Defender Firewall reduces the attack surface of a device, providing an extra layer to the defense-in-depth model..
 
 Describe a negative consequence of having too many exceptions.
-Type your answers here
+there maibe coud be hackers tht can acces youre computer and viruses.
 
 Can you connect to PC-1 and view the Cisco shared folder?
-Type your answers here.
+no we canot connect eroor message
 
  Did you receive an error message on PC-2? If so, what was the Error message?
-Type your answers here.
+windows cannot acces this computer.
  
  Can you connect to computer 1? Explain.
-Type your answers here.
+yes we can acces the foldr
  
  List the short name of four services that are available in the Customize Service Settnigs window.
-Type your answers here.
+aplicated identidy, aplication information, aplication layer gateway, app readiness.
 
 List four of the Specific ICMP types.
-Type your answers here.
+adress mark request, parameter request, redirect, echo request.
 
 What are some possible reasons you may need to make firewall changes?
-Type your answers here.
+Outdated firewall rules can allow unauthorized network access which result in cyber-attacks and gaps in compliance with industry and government regulations.
 
 
 
